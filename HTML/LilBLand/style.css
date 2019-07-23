@@ -1,0 +1,21 @@
+h1{
+    color: rgb(16, 196, 106);
+}
+body{
+    text-align: center;
+}
+div{
+    margin: auto;
+    border: solid 6px rgb(100, 15, 100);
+    width: 70%;
+    text-align: left;
+    background: rgb(163, 24, 163);
+}
+span{
+    font-size:2pc;
+    color:rgb(255, 0, 0);
+    text-transform: uppercase;
+}
+a {
+    color: rgb(216, 178, 9)
+}

@@ -1,0 +1,18 @@
+.square{
+    width: 100px;
+    height: 100px;
+    background-color: rgba(85, 5, 85, 0.671);
+    display: inline;
+}
+p{
+    background-color: black
+}
+#first{
+    background-color: rgb(255, 146, 57);
+}
+#second{
+    background-color: rgb(255, 169, 184)
+}
+#third{
+    background-color: rgb(99, 185, 12)
+}

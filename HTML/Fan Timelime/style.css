@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    color: darkred;
+    margin: auto;
+    border: solid 6px darkred;
+    width: 50%;
+    background: red;
+}
+div18{
+    text-align: center;
+    color: darkred;
+    margin: left;   
+    font-size: 30px;
+}

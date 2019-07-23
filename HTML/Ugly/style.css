@@ -1,0 +1,36 @@
+html{
+    background-color: rgb(53, 53, 53);
+}
+header{
+    font-family: tangerine;
+    font-size: 72px;
+    text-align: center;
+    color: white;
+}
+h3{
+    font-family: Unica One;
+    font-size: 26px;
+    text-align: center;
+    color: white;
+}
+.center{
+    width:540px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.watch_container{
+    background-color: #1a1818;
+    border: #fdefa6;
+    border-radius: 13px;
+    border-width: 2px;
+
+}
+h2{
+    font-family: Unica One;
+    color: white;
+}
+.text{
+
+}
